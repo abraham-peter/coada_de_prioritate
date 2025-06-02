@@ -29,7 +29,6 @@ Dezvoltarea unui sistem complet de management al cozilor de prioritate care simu
 - **Interface utilizator**: Console și Web UI
 
 ### **Competențe Dezvoltate**
-- Programare orientată pe obiecte în Python
 - Algoritmi de prioritizare și structuri de date
 - Dezvoltare web full-stack (Backend + Frontend)
 - Managementul bazelor de date
